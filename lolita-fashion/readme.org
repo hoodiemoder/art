@@ -1,22 +1,14 @@
-* TODO Integrating https://lolibrary.org links
-
 * lolita-fashion
-The links references might not the the actual purchase source.
+Taobao is a *pain in the butt* to access without an account, exported pdf is available.
 
-(Might be removed in future commits)
 
-Taobao is a *pain in the butt* to access without an account.
 
-https://www.fluffytori.com/en/fluffy-kawaii-jo/156-lolita-starter-pack-black.html
-https://www.youtube.com/watch?v=Tqe2O9NS6yA
 
 ** Jumperskirt
 *** Diamond Honey
 **** Lace Cross
-https://www.devilinspired.com/lolita/sling-lace-and-cross-printing-jsk-by-diamond-honey.html
-*** With PUJI
-
 ** One-piece
+*** With PUJI
 ** Petticoat
 ** Shoe
 ** Sock
@@ -25,6 +17,11 @@ https://www.devilinspired.com/lolita/sling-lace-and-cross-printing-jsk-by-diamon
 *** "La capa"
 
 #+html: <img src="https://ae01.alicdn.com/kf/H0c9172651e484ae5b47522881d5c6430c.jpg" width="512px">
-https://aliexpress.com/item/1005003500578520.html
 
+
+https://www.youtube.com/watch?v=Tqe2O9NS6yA
+
+Bought this starterpack from FluffyKawaiiJo :D
+
+Much thanks, very cute!
 
