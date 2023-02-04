@@ -1,12 +1,13 @@
 * lolita-fashion
-Taobao is a *pain in the butt* to access without an account, exported pdf is available.
 
+I will write all the things I've got from this adorable street fashion.
 
-
+# Note: Taobao is a *pain in the butt* to access without an account.
 
 ** Jumperskirt
 *** Diamond Honey
 **** Lace Cross
+
 ** One-piece
 *** With PUJI
 ** Petticoat
@@ -18,10 +19,15 @@ Taobao is a *pain in the butt* to access without an account, exported pdf is ava
 
 #+html: <img src="https://ae01.alicdn.com/kf/H0c9172651e484ae5b47522881d5c6430c.jpg" width="512px">
 
+** Starterpack
 
-https://www.youtube.com/watch?v=Tqe2O9NS6yA
+#+html: <iframe id="ytplayer" type="text/html" width="720" height="405"
+#+html: src="https://www.youtube.com/embed/Tqe2O9NS6yA?modestbranding=1&color=white&iv_load_policy=3"
+#+html: frameborder="0" allowfullscreen>
 
 Bought this starterpack from FluffyKawaiiJo :D
+
+Check her channel out!
 
 Much thanks, very cute!
 
