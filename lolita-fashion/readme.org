@@ -21,7 +21,7 @@ I will write all the things I've got from this adorable street fashion.
 
 ** Starterpack
 
-#+html: <iframe id="ytplayer" type="text/html" width="720" height="405" src="https://www.youtube.com/embed/Tqe2O9NS6yA?modestbranding=1&color=white&iv_load_policy=3" frameborder="0" allowfullscreen>
+#+html: <iframe id="ytplayer" type="text/html" width="720" height="405" src="https://www.youtube.com/embed/Tqe2O9NS6yA?modestbranding=1&color=white&iv_load_policy=3" frameborder="0" allowfullscreen></iframe>
 
 Bought this starterpack from FluffyKawaiiJo :D
 
